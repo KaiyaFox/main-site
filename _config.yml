@@ -39,7 +39,7 @@ social-network-links:
   github: fursquared
   twitter: fursquared
   telegram: fursquaredchat
-  rss: true
+  rss: false
   mastodon: "mastodon.furrycon.social/@fursquared"
 #  reddit: yourname
 #  linkedin: daattali
