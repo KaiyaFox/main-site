@@ -14,3 +14,12 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+.jekyll-metadata
+
+package.json
+package-lock.json
+node_modules
+
+# IDE
+.vscode
