@@ -3,8 +3,7 @@ layout: page
 title: Code of Conduct
 subtitle: How to Get Along With Us
 ---
-
-## **Code of Conduct**
+## **Code of Conductvf dvgfdbvgd**
 
 The following general rule supersedes all others listed below and may be invoked at any time:
 
@@ -101,6 +100,6 @@ The Board may, upon receipt of information, ban or bar someone from event spaces
 
 Please be reminded that these rules involve, of course, "worst-case" scenarios and are put into place to ensure the safety and comfort of our members. They are also not all-inclusive: **in all cases, the singular rule that supersedes all others is, "any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects Fur Squared's relationship with its guests, its venue or the public is strictly forbidden and may result in removal."**
 
-Fur Squared is prepared to deal with any or all of the above scenarios in as rapid and efficient a manner as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Have fun - just please remember to be courteous of those around you while doing so\!
+Fur Squared is prepared to deal with any or all of the above scenarios in as rapid and efficient a manner as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Have fun - just please remember to be courteous of those around you while doing so!
 
 ~The Board & Staff of Fur Squared & Two Ferrets
