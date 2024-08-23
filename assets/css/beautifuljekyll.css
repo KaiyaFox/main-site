@@ -906,10 +906,10 @@ table thead tr th {
 }
 
 table tbody tr:nth-child(even) {
-  background-color: #BF2154;
+  background-color: #2F2958;
 }
 table tbody tr:nth-child(odd) {
-  background-color: #810C20;
+  background-color: #49366C;
 }
 table tbody tr td {
   border: 1px solid {{ site.navbar-border-col | default: "#cccccc" }};
