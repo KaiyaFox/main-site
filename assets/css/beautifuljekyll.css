@@ -80,6 +80,7 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  color: #EEA7B5;
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -905,10 +906,10 @@ table thead tr th {
 }
 
 table tbody tr:nth-child(even) {
-  background-color: #A87242;
+  background-color: #2F2958;
 }
 table tbody tr:nth-child(odd) {
-  background-color: #855934;
+  background-color: #49366C;
 }
 table tbody tr td {
   border: 1px solid {{ site.navbar-border-col | default: "#cccccc" }};
