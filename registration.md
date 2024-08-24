@@ -68,6 +68,16 @@ The file located below is for a Notary consent form for minors between the ages 
 
 [Get the parental consent form](https://static.fursquared.com/documents/f2-2024-consent-form.pdf){: target="_blank" rel="noopener"}
 
+## Refund Policy
+
+Refund requests are handled depending on when the request is issued.
+
+All badges, regardless of registration tier can be refunded for 100% of the purchase price if the request is made **before February 10, 2025**. If the request is issued on or after Februrary 10th up until the end of the convention, only 50% of the purchase price can be refunded.
+
+After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
+
+If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
+
 ## Questions or Concerns?
 
 Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<br>FurSquared thanks you for your patience.
@@ -103,6 +113,12 @@ Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<b
 ## Help! I’ve lost my badge at the convention! What should I do?!?!
 
 * You will be required to head back to registration and purchase another level that you had previously purchased. Please clearly state that you require a reprint to staff when you arrive. A reprint will result in the cost of the level you had purchased prior. However, if you should find your badge after you have purchased a reprint, you may bring back the reprinted badge to registration and receive a refund of the reprinted badge. It will be destroyed and then you will receive a refund.
+
+## Help!! I've lost my swag and/or meal tickets that I received for being a Sponsor, Super Sponsor, or Poster tier attendee! What should I do?!?!?!
+
+Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
+
+If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
 
 # I've Read All This, Now Where Do I Register?
 
