@@ -1,13 +1,13 @@
 ---
 layout: page
 full-width: true
-title: FurSquared 2024 Registration
+title: FurSquared 2025 Registration
 subtitle: Please read the information on this page, then click the link at the bottom to register!
 ---
 
 ## COVID-19 Information
 
-**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared 2024, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population this fall (2023). Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. FurSquared may amend this policy as necessary for the safety of everyone at the convention.**
+**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared 2025, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population in the fall of 2023. Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. FurSquared may amend this policy as necessary for the safety of everyone at the convention.**
 
 Further details about this policy can be reviewed on our dedicated [COVID-19 policy page](/covid-policy).
 
@@ -32,13 +32,13 @@ Further details about this policy can be reviewed on our dedicated [COVID-19 pol
 
 ## Pricing
 
-**Pre-registration ends on February 21, 2024 at 11:59PM.** After this date, registration prices will switch to Walk-In pricing.
+Currently, registration for FurSquared is at Pre-Registration pricing. **Pre-Registration pricing will end on February 19th, 2025 at 11:59PM CST**. After that, all registration tiers will change to the Walk-In price.
 
 | Level | Pre-Registration | Walk-In Registration |
 | --- | --- | --- |
-| Attendee | $70 | $75 |
-| Sponsor | $120 | $130 |
-| Super Sponsor | $170 | $180 |
+| Attendee | $70 | $80 |
+| Sponsor | $130 | $140 |
+| Super Sponsor | $170 | $200 |
 | Poster | $250 | Not Available |
 
 <br/>
@@ -47,9 +47,14 @@ Further details about this policy can be reviewed on our dedicated [COVID-19 pol
 | --- | --- |
 | Friday | $40 |
 | Saturday | $40 |
-| Sunday | $35 |
+| Sunday | $30 |
 
 Super sponsors will not be eligible for refunds after a date to be determined. If you registered for a super sponsor and cannot make it to the convention, you may request a rollover for next year.
+
+Also, there are limits to how many people can register for certain registration levels:
+
+- Poster: There are only **50** spots for the Poster level. First come, first serve.
+- Supser Sponsor: There are only 250 spots for the Super Sponsor level.
 
 ## Parents wishing to attend with a minor: fear not, we got you!
 
