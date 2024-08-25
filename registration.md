@@ -66,7 +66,7 @@ Check back here and/or follow us on social media for any updates that may come t
 
 The file located below is for a Notary consent form for minors between the ages of 14-17 to attend the convention without an adult.
 
-[Get the parental consent form](https://static.fursquared.com/documents/f2-2024-consent-form.pdf){: target="_blank" rel="noopener"}
+[Get the parental consent form](https://static.fursquared.com/documents/f2-2025-consent-form.pdf){: target="_blank" rel="noopener"}
 
 ## Refund Policy
 
