@@ -1,13 +1,13 @@
 ---
 layout: page
 full-width: true
-title: FurSquared 2024 Registration
+title: FurSquared 2025 Registration
 subtitle: Please read the information on this page, then click the link at the bottom to register!
 ---
 
 ## COVID-19 Information
 
-**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared 2024, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population this fall (2023). Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. FurSquared may amend this policy as necessary for the safety of everyone at the convention.**
+**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared 2025, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population in the fall of 2023. Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. FurSquared may amend this policy as necessary for the safety of everyone at the convention.**
 
 Further details about this policy can be reviewed on our dedicated [COVID-19 policy page](/covid-policy).
 
@@ -32,13 +32,13 @@ Further details about this policy can be reviewed on our dedicated [COVID-19 pol
 
 ## Pricing
 
-**Pre-registration ends on February 21, 2024 at 11:59PM.** After this date, registration prices will switch to Walk-In pricing.
+Currently, registration for FurSquared is at Pre-Registration pricing. **Pre-Registration pricing will end on February 19th, 2025 at 11:59PM CST**. After that, all registration tiers will change to the Walk-In price.
 
 | Level | Pre-Registration | Walk-In Registration |
 | --- | --- | --- |
-| Attendee | $70 | $75 |
-| Sponsor | $120 | $130 |
-| Super Sponsor | $170 | $180 |
+| Attendee | $70 | $80 |
+| Sponsor | $130 | $140 |
+| Super Sponsor | $170 | $200 |
 | Poster | $250 | Not Available |
 
 <br/>
@@ -47,9 +47,14 @@ Further details about this policy can be reviewed on our dedicated [COVID-19 pol
 | --- | --- |
 | Friday | $40 |
 | Saturday | $40 |
-| Sunday | $35 |
+| Sunday | $30 |
 
 Super sponsors will not be eligible for refunds after a date to be determined. If you registered for a super sponsor and cannot make it to the convention, you may request a rollover for next year.
+
+Also, there are limits to how many people can register for certain registration levels:
+
+- Poster: There are only **50** spots for the Poster level. First come, first serve.
+- Supser Sponsor: There are only 250 spots for the Super Sponsor level.
 
 ## Parents wishing to attend with a minor: fear not, we got you!
 
@@ -61,7 +66,17 @@ Check back here and/or follow us on social media for any updates that may come t
 
 The file located below is for a Notary consent form for minors between the ages of 14-17 to attend the convention without an adult.
 
-[Get the parental consent form](https://static.fursquared.com/documents/f2-2024-consent-form.pdf){: target="_blank" rel="noopener"}
+[Get the parental consent form](https://static.fursquared.com/documents/f2-2025-consent-form.pdf){: target="_blank" rel="noopener"}
+
+## Refund Policy
+
+Refund requests are handled depending on when the request is issued.
+
+All badges, regardless of registration tier can be refunded for 100% of the purchase price if the request is made **before February 10, 2025**. If the request is issued on or after Februrary 10th up until the end of the convention, only 50% of the purchase price can be refunded.
+
+After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
+
+If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
 
 ## Refund Policy
 
@@ -110,6 +125,12 @@ Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<b
 ## Help! I’ve lost my badge at the convention! What should I do?!?!
 
 * You will be required to head back to registration and purchase another level that you had previously purchased. Please clearly state that you require a reprint to staff when you arrive. A reprint will result in the cost of the level you had purchased prior. However, if you should find your badge after you have purchased a reprint, you may bring back the reprinted badge to registration and receive a refund of the reprinted badge. It will be destroyed and then you will receive a refund.
+
+## Help!! I've lost my swag and/or meal tickets that I received for being a Sponsor, Super Sponsor, or Poster tier attendee! What should I do?!?!?!
+
+Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
+
+If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
 
 # I've Read All This, Now Where Do I Register?
 
