@@ -26,4 +26,4 @@ If a suitable reference is not submitted, then your registration level will be d
 
 | Date | Milestone |
 | --- | --- |
-| January 8th, 2023 11:59 PM CST | Poster Entry Ends (If Not All 100 Slots Filled)|
+| December 29th, 2024 11:59 PM CST | Poster Entry Ends (If Not All 100 Slots Filled)|
