@@ -74,7 +74,7 @@ Refund requests are handled depending on the type of badge purchased and when th
 
 All badges *below Poster tier* can be refunded for 100% of the purchase price if the request is made **before February 10, 2025 at 9:00 AM CST**. If the request is issued on or after Februrary 10th @ 9AM CST up until the end of the convention, only 50% of the purchase price can be refunded.
 
-For Poster tier badges, refunds are only allowed on or before November 1, 2025 at 9:00 AM CST, a.k.a the closing date for Poster tier registration. **All Poster tier badges will not be refundable after November 1, 2025 @ 9:00 AM CST**.
+For Poster tier badges, refunds are only allowed on or before November 1, 2024 at 9:00 AM CST, a.k.a the closing date for Poster tier registration. **All Poster tier badges will not be refundable after November 1, 2024 @ 9:00 AM CST**.
 
 After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
 
