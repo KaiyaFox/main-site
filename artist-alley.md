@@ -6,15 +6,22 @@ css:
   - /assets/css/theme-2022/artist-alley.css
 subtitle: Hours, Rules, and Other Fun Info!
 ---
-**The Artist Alley runs on a lottery system where new participants are chosen daily.**\
-You can enter the lottery in-person at the Artist Alley Info Desk or via Telegram.\
-**Sign up early via the Artist Alley Telegram Channel:** \[Link will be available Wednesday 2/21/24 ]
 
-![Hours: Friday: Sign Up 10:30 AM. Lotto/Setup 12 PM. Open to Public 1 PM. Close 5 PM. Saturday: Sign Up 9:30 AM. Lotto/Set Up 10 AM. Open To Public 11 AM. Close 5 PM. Sunday: Sign Up 9:30 AM. Lotto/Setup 10 AM. Open To Public 11 AM. Close 4 PM.](/uploads/f2_2024_artistalley_hours.png)
+## **The Artist Alley runs on a lottery system where new participants are chosen daily.**
+
+#### You can enter the lottery in-person at the Artist Alley Info Desk or via Telegram.
+
+### **Sign up early via the**
+
+### [2024 Artist Alley Telegram Channel](https://t.me/+q-VDZfvAePZjYjFh)
+
+<img src="/uploads/f2_2024_artistalley_hours.png" alt="Hours: Friday: Sign Up 10:30 AM. Lotto/Setup 12 PM. Open to Public 1 PM. Close 5 PM. Saturday: Sign Up 9:30 AM. Lotto/Set Up 10 AM. Open To Public 11 AM. Close 5 PM. Sunday: Sign Up 9:30 AM. Lotto/Setup 10 AM. Open To Public 11 AM. Close 4 PM." />
 
 ### Please remember to check out at the info desk when you leave the alley for the day!
 
-This way, people on the waiting list can participate AND you get the opportunity to sign up for the next day’s lotto immediately! **Failure to check out may result in disqualification for the following day.**
+This way, people on the waiting list can participate AND you get the opportunity to sign up for the next day’s lotto immediately!
+
+**Failure to check out may result in disqualification for the following day.**
 
 ## How to Participate:
 
@@ -27,7 +34,7 @@ This way, people on the waiting list can participate AND you get the opportunity
 
 ### Option 2: Telegram Lotto Signups
 
-* Go to the Artist Alley Telegram Announcement Channel \[Link will be available Wednesday 2/21/24 ]
+* Go to the [Artist Alley Channel](https://t.me/+q-VDZfvAePZjYjFh)
 * Find the pinned message titled “LOTTO SIGN UP”
 * Comment with your Badge Name, Badge Number, and all days that you would like to enter the lotto (Friday, Saturday, and/or Sunday).
 * That’s it! The list of lotto winners and waitlist will be posted in the channel each morning.
@@ -42,8 +49,17 @@ This way, people on the waiting list can participate AND you get the opportunity
 ### Rules and Other Info
 
 * **Do not post things on walls.** This is a historical hotel with historical walls, please be respectful. **If this rule is broken, you will be immediately removed from the Artist Alley and disallowed from entering the lotto for the rest of the weekend.** Depending on severity, your badge may be revoked completely.
+* **Sales Tax information:**
+
+  This year will be collecting information for state sales tax filing.
+
+  The Google form will be provided to fill out before the convention via the 2024 Artist Alley Announcement Channel. On it we will need some personal information including: name, address, and email.
+
+  We will also be collecting your sales tax id **OR** the last four of your social security number at the convention when you get your table.
+
+  If you have any questions please message [Kashiru](https://t.me/kashiru) on telegram.
 * **Please clean your area for the next person when you check out.**
-* **Each person gets ½ of a table.** Please don’t encroach into your neighbor’s space.
+* **Each person gets ½ of a table.** The table space amounts to 36” x 18” per person. Please don’t encroach into your neighbor’s space.
 * **Cover those bits: Minors will be present at the con, so please have NSFW pieces clearly marked and censored.**
 * **If you’re away from your table for more than 30 minutes, your spot will be forfeited to the next person on the waiting list.** Some exceptions may apply - come talk to us at the desk if you’ll be away for a while. You’re not a prisoner, but we want to make sure that the small space can cater to as many artists as possible over the weekend, and abandoned tables are discouraging to both commissioners and those on the waitlist.
 * **There will be no access to electrical outlets.** Having a portable power bank is highly recommended.
@@ -58,7 +74,8 @@ This way, people on the waiting list can participate AND you get the opportunity
 
 If you have questions about whether or not your items fall in the guidelines, please email **art@fursquared.com** before the con or find **RenaCat** or other Artist Alley Staff in-person by the **Artist Alley Info Desk** or via the **Artist Alley Telegram Channel**.
 
-This year, most of our at-con announcements will be made through telegram! Go to [ **Link will be available Wednesday 2/21/24** ] to keep yourself updated!
+This year, most of our at-con announcements will be made through telegram! Join the [2024 Artist Alley Channel](https://t.me/+q-VDZfvAePZjYjFh) to keep yourself updated!
 
-Be Kind. Have Fun. Make Bank.\
+Be Kind. Have Fun. Make Bank.
+
 Good Luck!

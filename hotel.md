@@ -1,7 +1,7 @@
 ---
 layout: page
 full-width: true
-title: Hotel Information
+title: Hotel and Milwaukee Area Information
 subtitle: Introducing Our New Venue! Keep Reading for Information on the Hilton Milwaukee City Center, Hotels, Parking, Travel Options, and Food!
 ---
 <div align="center">
@@ -26,6 +26,8 @@ Phone: (414) 271-7250<br/>
 
 <div align="center">
   <img alt="A map of the venue. Please ask a staff member any questions."  src="{{ 'assets/img/maps/map_venue.png' | relative_url }}" />
+
+  <h4><a href="/assets/img/maps/vertical_con_map.png" target="_new">Click here for a mobile-friendly vertical version of the map.</a></h4>
 </div>
 
 # Hotel Recommendations
@@ -84,6 +86,7 @@ Milwaukee Mitchell International Airport is the main airport serving the Milwauk
 If you live in the Milwaukee area, are staying with a friend, or otherwise looking for other local transportation options, here are a few options to consider.
 
 * **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus routes throughout the Milwaukee area. Wisconsin Avenue, where our Hilton is located, is a huge corridor for bus travel in the area. [Click here for more information](https://www.ridemcts.com/routes-schedules).
+  * **MCTS Connect 1 Free Bus Service**: MCTS operates a free bus service called Connect 1 that runs from the Watertown Plank Park and Ride direct to the Hilton at the stop on 5th and Wisconsin. From Watertown Plank to the Hilton is approximately a 30 minute ride. [Click here for more information](https://www.ridemcts.com/routes-schedules/connect1).
 * **Wisconsin Coach Lines**: Wisconsin Coach Lines operates bus service from a number of regional park and ride lots to Downtown Milwaukee. Buses stop near the Hilton! [Click here for more information](https://www.coachusa.com/wisconsin-coach).
 
 ## From Chicago
