@@ -70,13 +70,15 @@ The file located below is for a Notary consent form for minors between the ages 
 
 ## Refund Policy
 
-Refund requests are handled depending on when the request is issued.
+Refund requests are handled depending on the type of badge purchased and when the request is issued.
 
-All badges, regardless of registration tier can be refunded for 100% of the purchase price if the request is made **before February 10, 2025**. If the request is issued on or after Februrary 10th up until the end of the convention, only 50% of the purchase price can be refunded.
+All badges *below Poster tier* can be refunded for 100% of the purchase price if the request is made **before February 10, 2025 at 9:00 AM CST**. If the request is issued on or after Februrary 10th @ 9AM CST up until the end of the convention, only 50% of the purchase price can be refunded.
+
+For Poster tier badges, refunds are only allowed on or before November 1, 2024 at 9:00 AM CST, a.k.a the closing date for Poster tier registration. **All Poster tier badges will not be refundable after November 1, 2024 @ 9:00 AM CST**.
 
 After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
 
-If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
+If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th @ 9 AM CST are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
 
 ## Refund Policy
 
@@ -128,9 +130,9 @@ Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<b
 
 ## Help!! I've lost my swag and/or meal tickets that I received for being a Sponsor, Super Sponsor, or Poster tier attendee! What should I do?!?!?!
 
-Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
+* Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
 
-If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
+* If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
 
 # I've Read All This, Now Where Do I Register?
 
