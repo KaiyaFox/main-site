@@ -43,9 +43,11 @@ The main hotel for our convention, the Hilton Milwaukee City Center, has rooms s
 
 You can access the FurSquared 2025 main hotel room block by [following this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink). This link is the only way for attendees to book guaranteed rooms in the main hotel at special pricing for FurSquared 2025.
 
+If you have a need for an accessible room, please place your reservation for a standard room online. After you have made your reservation, please contact the hotel directly at (414) 271-7250 to be moved to an accessible room. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
+
 ## Alternative Hotels
 
-If you cannot access or afford the main hotel, there are nearby hotels that will have rooms available with pricing comparable to our con block. We suggest the following hotels, which are ordered by distance from the Hilton Milwaukee City Center:
+If you cannot reserve your preferred room in the main hotel, there are nearby hotels that will have rooms available with pricing comparable to our con block. We suggest the following hotels, which are ordered by distance from the Hilton Milwaukee City Center:
 
 * **[DoubleTree by Hilton Milwaukee Downtown](https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/)** - 611 W Wisconsin Ave, Milwaukee, WI 53203 (Adjacent to the Hilton Milwaukee City Center)
 * **[Fairfield Inn & Suites by Marriott Milwaukee Downtown](https://www.marriott.com/hotels/travel/mkefd-fairfield-inn-and-suites-milwaukee-downtown/)** - 710 N Dr. Martin Luther King Drive, Milwaukee, WI 53203
@@ -69,11 +71,11 @@ You MUST validate your parking ticket! There are two ways:
 1. Take the parking ticket to the front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
 2. If you are not staying overnight, you can acquire a voucher from Registration on the 4th floor and take that to the hotel front desk, along with your parking ticket.
 
-There are also other lots available in the area. We recommend checking out [SpotHero](https://spothero.com) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of the app.
+There are also other lots available in the area, including within a 1-3 block area surrounding the hotel. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
 
 # Getting to FurSquared
 
-There are other ways to get to FurSquared besides driving and parking! Options may be cheaper, more convenient, or more environmentally friendly than driving yourself are widely available in the city. As a bonus, you can also use these options to get around Milwaukee during the convention and explore the city if you wish!
+There are other ways to get to FurSquared besides driving and parking! Options that may be cheaper, more convenient, or more environmentally friendly are widely available in the city. As a bonus, you can also use these options to get around Milwaukee during the convention and explore the city if you wish!
 
 ## From the Milwaukee Intermodal Station
 
@@ -89,7 +91,7 @@ Station information, including a listing of all bus services and Amtrak lines, c
 Milwaukee Mitchell International Airport is the main airport serving the Milwaukee area. It's located at 5300 S Howell Ave, Milwaukee, WI 53207. The airport is served by most major domestic airlines including Delta, American, Southwest, United, Spirit, JetBlue, and Frontier.
 
 * **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus route 80 to Downtown Milwaukee, with a stop at 6th and Wisconsin right outside the Hilton! [Click here for more information](https://www.ridemcts.com/routes-schedules/80).
-* **Rideshare**: Uber and Lyft both operate at the airport. Request a ride and you'll be picked up at the rideshare zone outside baggage claim.
+* **Rideshare**: Uber and Lyft both operate at the airport. Request a ride and you'll be picked up at the rideshare zone inside the parking garage across from baggage claim.
 * **GO Riteway**: GO Riteway operates a shuttle service from the airport to Downtown Milwaukee. [Click here for more information](https://goriteway.com/ride-services/airport-transportation/).
 
 ## From The Greater Milwaukee Area
