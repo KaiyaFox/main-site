@@ -13,7 +13,7 @@
 title: FurSquared
 
 # Short description of your site
-description: "FurSquared 2024: World of Innovation"
+description: "FurSquared 2025: The Haunted Masquareade"
 
 # Your name to show in the footer
 author: Two Ferrets Co. dba FurSquared
@@ -38,14 +38,13 @@ navbar-links:
     - Guests of Honor: 'goh'
     - Hotel: "hotel"
     - Code of Conduct: "code-of-conduct"
-    - Covid Policy: "covid-policy"
     - Photos: "https://fursquared.smugmug.com/"
     - Poster: "poster"
     - Volunteer: "volunteer"
+    - Programming: 'programming'
   Dealers and Artists:
     - Artist Alley: "artist-alley"
     - Dealer's Den: "dealers"
-    - Dealer's Gallery: "https://dealers.fursquared.com"
     - Dealing At F2: "dealing-at-f2"
     - Dealer Vendor Policy: "dealers-vend-policy"
   Contact Us: "contact"
@@ -81,7 +80,7 @@ social-network-links:
   twitter: fursquared
   mastodon: mastodon.furrycon.social/@fursquared
   telegram: fursquaredchat
-  discord: Tzhc4KCXre
+# discord: Tzhc4KCXre
   rss: true
   bluesky: fursquared.com
 #  facebook: deanattali
@@ -228,11 +227,6 @@ gtag: "UA-175189175-1"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
 
 ####################
 # --- Comments --- #
