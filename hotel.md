@@ -2,7 +2,7 @@
 layout: page
 full-width: true
 title: Hotel and Milwaukee Area Information
-subtitle: Introducing Our New Venue! Keep Reading for Information on the Hilton Milwaukee City Center, Hotels, Parking, Travel Options, and Food!
+subtitle: Welcome Back to Our Historic Venue! Keep Reading for Information on the Hilton Milwaukee City Center, Hotels, Parking, Travel Options, and Food!
 ---
 <div align="center">
   <img alt="The lobby of the Hilton Milwaukee City Center"  src="{{ 'assets/img/2024/hilton_inside.jpg' | relative_url }}" />
@@ -22,6 +22,7 @@ Phone: (414) 271-7250<br/>
   </div>
 <hr>
 
+<!-- Currently outdated. Uncomment when new map is created.
 # Venue Map
 
 <div align="center">
@@ -30,11 +31,21 @@ Phone: (414) 271-7250<br/>
   <h4><a href="/assets/img/maps/vertical_con_map.png" target="_new">Click here for a mobile-friendly vertical version of the map.</a></h4>
 </div>
 
+-->
+
 # Hotel Recommendations
 
-### Our  block for the Hilton Milwaukee City Center has been filled!
+## Main Hotel
 
-However, there are nearby hotels that still have rooms available with pricing comparable to our con block. We suggest the following hotels, which are ordered by distance from the Hilton Milwaukee City Center:
+The main hotel for our convention, the Hilton Milwaukee City Center, has rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link to Hilton's website.
+
+<h3>Room block status: <span style="color: #91F89E">OPEN!</span></h3>
+
+You can access the FurSquared 2025 main hotel room block by [following this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink). This link is the only way for attendees to book guaranteed rooms in the main hotel at special pricing for FurSquared 2025.
+
+## Alternative Hotels
+
+If you cannot access or afford the main hotel, there are nearby hotels that will have rooms available with pricing comparable to our con block. We suggest the following hotels, which are ordered by distance from the Hilton Milwaukee City Center:
 
 * **[DoubleTree by Hilton Milwaukee Downtown](https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/)** - 611 W Wisconsin Ave, Milwaukee, WI 53203 (Adjacent to the Hilton Milwaukee City Center)
 * **[Fairfield Inn & Suites by Marriott Milwaukee Downtown](https://www.marriott.com/hotels/travel/mkefd-fairfield-inn-and-suites-milwaukee-downtown/)** - 710 N Dr. Martin Luther King Drive, Milwaukee, WI 53203
