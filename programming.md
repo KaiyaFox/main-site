@@ -2,11 +2,13 @@
 layout: page
 full-width: true
 title: Programming
-subtitle: Things to do at FurSquared
+subtitle: Submit or Attend a Panel at FurSquared!
 ---
 ## Programming Submissions
 
-[Click here for  our schedule of events!](https://schedule.fursquared.com/f2-2024/talk/){: .button target="_blank" rel="noopener"}
+Want to host a panel at the haunted masquerade that is FurSquared? The panel submission form is now open!
+
+[Submit a Panel](https://docs.google.com/forms/d/e/1FAIpQLSckncqXhqryvMJiix46V1dou9EgNDHztYq8-L0hduralvVAMw/viewform)
 
 ## Contact the Programming Department
 
