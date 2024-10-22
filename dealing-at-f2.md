@@ -6,11 +6,6 @@ subtitle: Information for the people dealing at Fur Squared
 toc: true
 ---
 
-**Dealer's Den Hours & Schedule**
----------------------------------
-
-![Dealer's Den Schedule](https://fursquared.com/uploads/F2DD_site_sched_rev2.png)
-
 **After Hours**
 ---------------
 
@@ -19,17 +14,17 @@ Please note that once the Dealers Den is closed for the evening, nobody will be 
 **Table Dimensions, Amenities & Pricing**
 -----------------------------------------
 
-Individual vendor spaces in the main (Regency Ballroom) and overflow (Juneau) Dealers Dens are six feet by six feet; this includes one table with dimensions of six feet by thirty inches and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
+Individual vendor spaces in the main (Regency Ballroom) and overflow (Juneau) Dealers Dens are six feet by six feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
 
-Night Market will be using the same space as Artists Alley (Oak) and as such individual vendor spaces for this area are six feet by five feet; this includes one table with dimensions of six feet by eighteen inches and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
+Night Market will be using the same space as Artists Alley (Oak) and as such individual vendor spaces for this area are six feet by five feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
 
 **Table Costs**
 ---------------
 
 | **Vendor Location** | **Table Dimensions** | **Cost** |
 | --- | --- | --- |
-| Dealers Den | single table, 72” x 30” | $100.00 |
-| Night Market | single table, 72” x 18” | $40.00 |
+| Dealers Den | single table, 96" by 30" | $100.00 |
+| Night Market | single table, 96" by 30" | $40.00 |
 
 Note that there are no daily pricing options this year; all listed prices are for the duration of the Convention. Please also note that there are no half-table options at this time.
 
