@@ -19,9 +19,9 @@ Please note that once the Dealers Den is closed for the evening, nobody will be 
 **Table Dimensions, Amenities & Pricing**
 -----------------------------------------
 
-Individual vendor spaces in the main (Regency Ballroom) and overflow (Juneau) Dealers Dens are six feet by six feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
+Both the Dealer's Den and the Night Market will be located in convention center room 202. Dealer's Den will take up spaces A, B, & C; Night Market will take up spaces D & E.
 
-Night Market will be using the same space as Artists Alley (Oak) and as such individual vendor spaces for this area are six feet by five feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
+Individual vendor spaces in both the Dealers Den and the Night Market are six feet by six feet; this includes one table with dimensions of 96" by 30" and a space of 3.5 feet behind it. Two chairs and a basic tablecloth will be provided per table.
 
 **Table Costs**
 ---------------
@@ -78,7 +78,7 @@ Dealers Den staff will reach out to Vendors on the waitlist if there are any ope
 **Badge Pickup**
 ----------------
 
-If you are picking up badges for yourself or your assistant, you may do so on Thursday outside Founders Room (headless lounge), right next to the main Dealers Den. If you are picking your badge(s) up on Friday, you will need to pick them up at Registration.
+If you are picking up badges for yourself or your assistant, you may do so on Thursday outside of convention center room 202, right next to the Dealer's Den. If you are picking your badge(s) up on Friday, you will need to pick them up at Registration.
 
 **Shipping Items to the Hotel**
 -------------------------------
@@ -95,10 +95,10 @@ The shipping address for the hotel is:
 **Milwaukee, WI 53203**
 
 
-**Code of Conduct**
+**Vendor Policy**
 -------------------
 
-Please review our [Dealer Code of Conduct](/dealer-coc)
+Please review our [Vendor Policy](/dealers-vend-policy).
 
 Note that the above is an extension of our primary [Code of Conduct](/code-of-conduct).
 
