@@ -5,11 +5,16 @@ title: Dealing at Fur Squared
 subtitle: Information for the people dealing at Fur Squared
 toc: true
 ---
+
+![A banner image advertising that Dealer's Den applications are now open.](https://static.fursquared.com/img/dealers-2025.webp)
+
 **How to Apply**
 -----------------
 To apply for a vendor spot at FurSquared 2025, use the link below:
 
 <https://vendors.fursquared.com/apply>
+
+The deadline to apply is **November 30th**, so act fast!
 
 **After Hours**
 ---------------
