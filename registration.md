@@ -80,18 +80,6 @@ After the convention has ended (after closing ceremonies have concluded), no bad
 
 If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th @ 9 AM CST are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
 
-## Refund Policy
-
-Refunds are handled depending on your badge level and when the request for a refund is made.
-
-Attendee level badges: Full refunds are available any time before the convention. 
-
-Poster, Sponsor, and Super Sponsor level badges: Full refunds are available if the refund request was made on or before February 10, 2024. After that date, only a 50% refund will be issued except in special cases.
-
-After the convention starts, all refunds will be denied except for special cases.
-
-For more information or to request re-evaluation of an existing refund case, please email [registration@fursquared.com](mailto:registration@fursquared.com).
-
 ## Questions or Concerns?
 
 Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<br>FurSquared thanks you for your patience.
