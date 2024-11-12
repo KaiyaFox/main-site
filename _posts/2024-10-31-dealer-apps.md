@@ -5,6 +5,8 @@ date: 2024-10-31T11:36:00.000Z
 excerpt: "We’re very excited to announce that we are now accepting Dealers Den and Night Market applications! We also have some amazing new changes for both the Dealers Den and Night Market this year!"
 ---
 
+![A banner image advertising that Dealer's Den applications are now open.](https://static.fursquared.com/img/dealers-2025.webp)
+
 Greetings FurSquared Family,
 
 We’re very excited to announce that we are now accepting Dealers Den and Night Market applications! We also have some amazing new changes for both the Dealers Den and Night Market this year!
