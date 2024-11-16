@@ -52,8 +52,20 @@ What's in it for you? First off, you'll have the thanks of our entire staff and 
 
 ## Interested In Volunteering?
 
-Looking to Volunteer this year for FurSquared  2024? If you haven't already Pre-Registered for our 2024 event then you'll be glad to know you can also fill out our Volunteer form during your Registration Process. Already registered and changed your mind? Use the Edit Registration link in your email to login, where you can sign up to volunteer. Thank you for taking interest in Volunteering for FurSquared  2024!
+Looking to Volunteer this year for FurSquared  2025? If you haven't already Pre-Registered for our 2025 event then you'll be glad to know you can also fill out our Volunteer form during your Registration Process. Already registered and changed your mind? Use the Edit Registration link in your email to login, where you can sign up to volunteer. Thank you for taking interest in Volunteering for FurSquared  2025!
 
 You can also sign up at the door when you arrive at the convention. We'll have volunteer log sheets and documentation available at the Volunteers Desk as soon as the convention starts.
 
 If you have any questions, or need information, you can email us at [volunteers@fursquared.com](mailto:volunteers@fursquared.com). Thank you so much for your interest in helping out FurSquared\!
+
+*Want to do more?*
+
+If you would like to get more involved with FurSquared 2025, please consider joining our staff! We're always looking for more help in all of our departments, from Art, to Programming, to Technology and beyond.
+We do ask for a larger commitment both for at-con and year-round work depending on the position, and also offer staff positions for those looking to help out remotely or cannot make it to the convention.
+
+In exchange for your hard work, you will receive the following:
+* Staff badge equivalent to Sponsor registration, including all Sponsor gifts
+* Special staff gifts unique to that year (can be lanyards, shirts, or other goodies!)
+* Other staff related activities/hangouts throughout the year
+
+If you're interested, please fill out our [Staff Application Form](https://forms.gle/DBpUAyNNj6r577sA9) and we will be in touch with you. Thanks so much for offering to go above and beyond for FurSquared!
