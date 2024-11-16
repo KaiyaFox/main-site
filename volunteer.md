@@ -58,7 +58,7 @@ You can also sign up at the door when you arrive at the convention. We'll have v
 
 If you have any questions, or need information, you can email us at [volunteers@fursquared.com](mailto:volunteers@fursquared.com). Thank you so much for your interest in helping out FurSquared\!
 
-*Want to do more?*
+## Want to do more?
 
 If you would like to get more involved with FurSquared 2025, please consider joining our staff! We're always looking for more help in all of our departments, from Art, to Programming, to Technology and beyond.
 We do ask for a larger commitment both for at-con and year-round work depending on the position, and also offer staff positions for those looking to help out remotely or cannot make it to the convention.
