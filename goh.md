@@ -13,7 +13,8 @@ subtitle: Lilia Roo and MAJIC Records!
 
 ### Lilia has helped connect furries and non-furries through public furwalks, and has successfully persuaded the city several times now to better connect itself through new, tangible additions to bicycle and transit infrastructure.  
 
-### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe. 
+### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe.
+ 
 <center>
 <img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
 </center>
@@ -22,17 +23,29 @@ subtitle: Lilia Roo and MAJIC Records!
 
 ----
 
-![Cosmik & Rhubarb, performing](/assets/img/goh/)
 
-### **MAJIC Records** 
+# **MAJIC Records** 
+
+### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.
+
+@MAJICREC
+
+Members of MAJIC Records:
+
+Jaylaflame - @elflameo 
+
+Blackmajic - @Blackmajic_3397
+
+Fly To The Night - @flytothenight
+
+$UDO.NORMI - @SUDONORMI
+
+TheKitoDiet - @kitodiet
+
+$leazy EZ - @FENDIHOOSKIE
+
+Cephi Starz - @Cephistarz
+
+Dr. Dread - @DrDread34
 
 
-
-![Cosmik & Rhubarb, sitting with their instruments](/assets/img/goh/)
-
-![Cosmik & Rhubarb, performing together](/assets/img/goh/)
-
-
-Find them Online!<br/>Rhubarb the Bear: [Bluesky](https://bsky.app/profile/RhubarbTheBear.bsky.social){: target="_blank" rel="noopener"} \| [Twitter](https://twitter.com/RhubarbTheBear){: target="_blank" rel="noopener"} \| [FurAffinity](https://www.furaffinity.net/user/RhubarbTheBear){: target="_blank" rel="noopener"} <br/>Cosmik: [Bluesky](https://bsky.app/profile/cosmik.bsky.social){: target="_blank" rel="noopener"} \| [Twitter](https://twitter.com/therealcosmik){: target="_blank" rel="noopener"} \| [FurAffinity](https://www.furaffinity.net/user/Cosmik){: target="_blank" rel="noopener"} \| [Ko-fi](https://ko-fi.com/Cosmik){: target="_blank" rel="noopener"} \| [Patreon](https://www.patreon.com/Cosmik){: target="_blank" rel="noopener"} \| [Bandcamp](https://therealcosmik.bandcamp.com){: target="_blank" rel="noopener"}
-
-<!--- {: target="_blank" rel="noopener"} --->
