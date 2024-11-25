@@ -36,7 +36,7 @@ subtitle: Lilia Roo and MAJIC Records!
 ***Artists of Honor***  
 
 </center>
-  
+
 ### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.
 
 <center>
