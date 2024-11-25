@@ -18,7 +18,7 @@ subtitle: Lilia Roo and MAJIC Records!
 <img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
 </center>
 
-##### Photo credits are: [Flowery icon: Recurrent] (https://www.recurrentart.com/contact--about.html), Computer photo: Ace (acetone.snaps on Instagram, @BenignEspurr on Telegram), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)
+##### ***Photo credits are: [Flowery icon: Recurrent] (https://www.recurrentart.com/contact--about.html), Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
 
 ----
 
