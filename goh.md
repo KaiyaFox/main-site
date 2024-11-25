@@ -5,15 +5,19 @@ title: Our Guests of Honor
 subtitle: Lilia Roo and MAJIC Records!
 ---
 
-### **Lilia Roo**
+# Lilia Roo
 
-![Lilia Roo, drawn](/assets/img/goh/uploads/liliaroo4.jpg)
+<img align="left" width="200" height="200" src="/uploads/liliaroo4.jpg">
 
-Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.
+Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.  
 
-Lilia has helped connect furries and non-furries through public furwalks, and has successfully persuaded the city several times now to better connect itself through new, tangible additions to bicycle and transit infrastructure.
+Lilia has helped connect furries and non-furries through public furwalks, and has successfully persuaded the city several times now to better connect itself through new, tangible additions to bicycle and transit infrastructure.  
 
-Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe.
+Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe. 
+
+<img align="center" width="200" height="200" src="/uploads/liliaroo4.jpg">
+
+----
 
 ![Cosmik & Rhubarb, performing](/assets/img/goh/)
 
