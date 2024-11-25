@@ -2,25 +2,58 @@
 layout: page
 full-width: true
 title: Our Guests of Honor
+subtitle: Lilia Roo and MAJIC Records!
 ---
 
-![Cosmik & Rhubarb, drawn](/assets/img/goh/CosmikAndRhubarb_drawn.jpg)
-
-**RHUBARB the BEAR**, in his human form, is a freelance composer, music director, jingle producer, studio musician, and multi-instrumentalist. He serves as an arranger/orchestrator for The Haygoods and Cassandre: Voice Of An Angel (both in Branson, MO), the Jazzaar Festival of Aarau, Switzerland; and the international Circus Vargas, and his music has been heard as far away as Disney Tokyo.  He also plays whatever instrument is most needed in any given show at the Winter Park Playhouse in Orlando, FL, where his husband Cosmik is Music Director.
-
-In 2010 his stage musical Julie Bunny Must Die appeared at the Orlando International Fringe Festival; to his knowledge it was the first time a mainstream musical featured a character (“LaserWolf”) who was a member of the furry fandom. He then attended his first con (MFF 2010) to see how accurate his portrayal was. Within two years Julie Bunny would be performed at Wild Nights, Oklacon, and Megaplex; the following year Megaplex also hosted his hit Fringe musical Fosgate: Ferret Loan Officer, an anthropomorphic spoof of Shakespeare’s The Merchant Of Venice. Currently he is carefully finishing up his rock opera Ony, The Runaway Circus Bear, which has already been performed live at Mephit Fur Meet, Eurofurence, and Nordic Fuzz Con, despite Rhubarb’s initial plan to make a recording and leave it at that.
-
-![Cosmik & Rhubarb, performing](/assets/img/goh/CosmikAndRhubarb_Perform_1.jpg)
-
-**COSMIK** has been entertaining the fandom since his first con in 2011, performing variously as a solo act, a duo with his husband, Rhubarb the Bear, a founding member of Bandthro, and a DJ.  He has entertained at Anthrocon, Eurofurence, Furry Fiesta, Confuzzled, Megaplex, Nordic Fuzz Con, Mephit Fur Meet, Just Fur the Weekend, Furvester, Califur and more.  His dead dog pub sing-alongs at Anthrocon are legendary.  He currently serves on the board of directors at Just Fur the Weekend (www.jftw.org) and the Events staff at Anthrocon.  In all his spare time, Cosmik has been recording his debut CD, which he usually plans to release "later this year."  (In actuality, a CD is forthcoming sometime in early 2025.)
-
-In his human form, Cosmik is a freelance music director, accompanist, vocal coach, actor and DJ whose professional career spans over 50 years and hundreds of shows.  He is currently Music Director at the Winter Park Playhouse, in Orlando, FL.  At Walt Disney World you might catch him performing at the Rose & Crown Pub and Dining Room, the Hoop Dee Doo Revue or the Grand Floridian Resort. He has also He has sung with the Dapper Dans of Main Street, and spent several holiday seasons as Grandpa Who in Universal Studios' Grinchmas Holiday Spectacular.  He performed his award-winning cabaret I'm Just Not That Gay at Orlando and KC Fringe Festivals and at Don't Tell Mama in New York.  He greatly enjoys baking, sewing, travel, crosswords and language learning.
-
-![Cosmik & Rhubarb, sitting with their instruments](/assets/img/goh/CosmikAndRhubarb_Perform_3.jpg)
-
-![Cosmik & Rhubarb, performing together](/assets/img/goh/CosmikAndRhubarb_Perform_2.jpg)
+# Lilia Roo
 
 
-Find them Online!<br/>Rhubarb the Bear: [Bluesky](https://bsky.app/profile/RhubarbTheBear.bsky.social){: target="_blank" rel="noopener"} \| [Twitter](https://twitter.com/RhubarbTheBear){: target="_blank" rel="noopener"} \| [FurAffinity](https://www.furaffinity.net/user/RhubarbTheBear){: target="_blank" rel="noopener"} <br/>Cosmik: [Bluesky](https://bsky.app/profile/cosmik.bsky.social){: target="_blank" rel="noopener"} \| [Twitter](https://twitter.com/therealcosmik){: target="_blank" rel="noopener"} \| [FurAffinity](https://www.furaffinity.net/user/Cosmik){: target="_blank" rel="noopener"} \| [Ko-fi](https://ko-fi.com/Cosmik){: target="_blank" rel="noopener"} \| [Patreon](https://www.patreon.com/Cosmik){: target="_blank" rel="noopener"} \| [Bandcamp](https://therealcosmik.bandcamp.com){: target="_blank" rel="noopener"}
 
-<!--- {: target="_blank" rel="noopener"} --->
+### Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.  
+
+### Lilia has helped connect furries and non-furries through public furwalks, and has successfully persuaded the city several times now to better connect itself through new, tangible additions to bicycle and transit infrastructure.  
+
+### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe.
+ 
+<center>
+<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
+
+##### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
+
+### **Find Lilia online at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)**
+
+</center>
+
+----
+----
+
+# **MAJIC Records** 
+
+### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.
+
+<center>
+<img alt=" " width="200" height="150" src="/uploads/MAJIC1.jpg"> <img alt=" " width="200" height="150" src="/uploads/MAJIC2.jpg"> <img alt="" width="200" height="150" src="/uploads/MAJIC3.jpg">
+
+### **Follow them at [@MAJICREC](https://x.com/MAJICREC)**
+
+### **Members:**
+
+**Jaylaflame** - [@elflameo](https://x.com/elflameo) 
+
+**Blackmajic** - [@Blackmajic_3397](https://x.com/Blackmajic_3397)
+
+**Fly To The Night** - [@flytothenight](https://x.com/flytothenight)
+
+**$UDO.NORMI** - [@SUDONORMI](https://x.com/SUDONORMI)
+
+**TheKitoDiet** - [@kitodiet](https://x.com/kitodiet)
+
+**$leazy EZ** - [@FENDIHOOSKIE](https://x.com/FENDIHOOSKIE)
+
+**Cephi Starz** - [@Cephistarz](https://x.com/Cephistarz)
+
+**Dr. Dread** - [@DrDread34](https://x.com/DrDread34)
+</center>
+
+----
+----
