@@ -7,7 +7,7 @@ subtitle: Lilia Roo and MAJIC Records!
 
 # Lilia Roo
 
-<img align="left" alt="Lilia Roo, Drawn" width="200" height="200" src="/uploads/liliaroo4.jpg">
+<img align="left" alt="Lilia Roo, Drawn" width="150" height="150" src="/uploads/liliaroo4.jpg">
 
 ### Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.  
 
