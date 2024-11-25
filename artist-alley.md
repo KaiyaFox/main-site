@@ -11,11 +11,12 @@ subtitle: Hours, Rules, and Other Fun Info!
 
 #### You can enter the lottery in-person at the Artist Alley Info Desk or via Telegram.
 
-### **Sign up early via the**
+### **Sign up early via the Artist Alley Telegram Channel**
+Link for the channel will be posted on Monday, February 17th.
 
-### [2024 Artist Alley Telegram Channel](https://t.me/+q-VDZfvAePZjYjFh)
+### Official Hours will be posted when the full schedule is released.
 
-<img src="/uploads/f2_2024_artistalley_hours.png" alt="Hours: Friday: Sign Up 10:30 AM. Lotto/Setup 12 PM. Open to Public 1 PM. Close 5 PM. Saturday: Sign Up 9:30 AM. Lotto/Set Up 10 AM. Open To Public 11 AM. Close 5 PM. Sunday: Sign Up 9:30 AM. Lotto/Setup 10 AM. Open To Public 11 AM. Close 4 PM." />
+---
 
 ### Please remember to check out at the info desk when you leave the alley for the day!
 
@@ -57,7 +58,7 @@ This way, people on the waiting list can participate AND you get the opportunity
 
   We will also be collecting your sales tax id **OR** the last four of your social security number at the convention when you get your table.
 
-  If you have any questions please message [Kashiru](https://t.me/kashiru) on telegram.
+  If you have any questions please contact **Kashiru@fursquared.com**
 * **Please clean your area for the next person when you check out.**
 * **Each person gets ½ of a table.** The table space amounts to 36” x 18” per person. Please don’t encroach into your neighbor’s space.
 * **Cover those bits: Minors will be present at the con, so please have NSFW pieces clearly marked and censored.**
@@ -72,9 +73,9 @@ This way, people on the waiting list can participate AND you get the opportunity
 * **Please keep premade, large “merch” \[clothing, fursuit parts/props, bags, pillows, etc] to a minimum.**
   *The general guideline is that you should be able to work on what you’re selling at your table \[generally, drawings]. Small, supplemental items \[stickers, keychains, etc.] are allowed, but should not be the main focus. There are of course exceptions to the rule \[i.e. if you’re drawing on t-shirts at your table and finishing them at the con, then selling clothing would be allowed].*
 
-If you have questions about whether or not your items fall in the guidelines, please email **art@fursquared.com** before the con or find **RenaCat** or other Artist Alley Staff in-person by the **Artist Alley Info Desk** or via the **Artist Alley Telegram Channel**.
+If you have questions about whether or not your items fall in the guidelines, please email **art@fursquared.com** before the con or find **Candy** or other Artist Alley Staff in-person by the **Artist Alley Info Desk** or via the **Artist Alley Telegram Channel**.
 
-This year, most of our at-con announcements will be made through telegram! Join the [2024 Artist Alley Channel](https://t.me/+q-VDZfvAePZjYjFh) to keep yourself updated!
+This year, most of our at-con announcements will be made through telegram! Join the 2024 Artist Alley Channel when it is released to keep yourself updated!
 
 Be Kind. Have Fun. Make Bank.
 
