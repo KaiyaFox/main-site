@@ -22,30 +22,35 @@ subtitle: Lilia Roo and MAJIC Records!
 ##### ***Photo credits are: [Flowery icon: Recurrent] (https://www.recurrentart.com/contact--about.html), Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
 
 ----
-
+----
 
 # **MAJIC Records** 
 
 ### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.
 
-@MAJICREC
+<center>
+<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
 
-Members of MAJIC Records:
+### **Follow them at [@MAJICREC](https://x.com/MAJICREC)**
 
-Jaylaflame - @elflameo 
+### **Members:**
 
-Blackmajic - @Blackmajic_3397
+**Jaylaflame** - [@elflameo](https://x.com/elflameo) 
 
-Fly To The Night - @flytothenight
+**Blackmajic** - [@Blackmajic_3397](https://x.com/Blackmajic_3397)
 
-$UDO.NORMI - @SUDONORMI
+**Fly To The Night** - [@flytothenight](https://x.com/flytothenight)
 
-TheKitoDiet - @kitodiet
+**$UDO.NORMI** - [@SUDONORMI](https://x.com/SUDONORMI)
 
-$leazy EZ - @FENDIHOOSKIE
+**TheKitoDiet** - [@kitodiet](https://x.com/kitodiet)
 
-Cephi Starz - @Cephistarz
+**$leazy EZ** - [@FENDIHOOSKIE](https://x.com/FENDIHOOSKIE)
 
-Dr. Dread - @DrDread34
+**Cephi Starz** - [@Cephistarz](https://x.com/Cephistarz)
 
+**Dr. Dread** - [@DrDread34](https://x.com/DrDread34)
+</center>
 
+----
+----
