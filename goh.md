@@ -17,7 +17,7 @@ subtitle: Lilia Roo and MAJIC Records!
 <center>
 <img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
 
-##### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
+#### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
 
 ### **Find out more at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)!**
 
@@ -34,26 +34,26 @@ subtitle: Lilia Roo and MAJIC Records!
 <center>
 <img alt=" " width="200" height="150" src="/uploads/MAJIC1.jpg"> <img alt=" " width="200" height="150" src="/uploads/MAJIC2.jpg"> <img alt="" width="200" height="150" src="/uploads/MAJIC3.jpg">
 
-### **Follow them on Twitter!** 
-**[@MAJICREC](https://x.com/MAJICREC)**
+### **Follow them on Twitter!**   
+**[@MAJICREC](https://x.com/MAJICREC)**  
 
-### **Members:**
+### **Members:**  
 
 **Jaylaflame** - [@elflameo](https://x.com/elflameo) 
 
 **Blackmajic** - [@Blackmajic_3397](https://x.com/Blackmajic_3397)
 
-**Fly To The Night** - [@flytothenight](https://x.com/flytothenight)
+**Fly To The Night** - [@flytothenight](https://x.com/flytothenight)  
 
-**$UDO.NORMI** - [@SUDONORMI](https://x.com/SUDONORMI)
+**$UDO.NORMI** - [@SUDONORMI](https://x.com/SUDONORMI)  
 
 **TheKitoDiet** - [@kitodiet](https://x.com/kitodiet)
 
-**$leazy EZ** - [@FENDIHOOSKIE](https://x.com/FENDIHOOSKIE)
+**$leazy EZ** - [@FENDIHOOSKIE](https://x.com/FENDIHOOSKIE)  
 
-**Cephi Starz** - [@Cephistarz](https://x.com/Cephistarz)
+**Cephi Starz** - [@Cephistarz](https://x.com/Cephistarz)  
 
-**Dr. Dread** - [@DrDread34](https://x.com/DrDread34)
+**Dr. Dread** - [@DrDread34](https://x.com/DrDread34)  
 </center>
 
 ----
