@@ -7,7 +7,9 @@ subtitle: Lilia Roo and MAJIC Records!
 <center>
 
 # Lilia Roo
+
 ***Guest of Honor***
+
 </center>
 
 ### Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.  
@@ -30,16 +32,18 @@ subtitle: Lilia Roo and MAJIC Records!
 <center>
 
 # **MAJIC Records** 
+
 ***Artists of Honor***  
 
 </center>
   
-### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.  
+### MAJIC Records is a Bipoc led music, dance, and event curation collective. Established in 2020 by Blackmajic, Jaylaflame, and Fly To The Night. Outside their own music and dance performances they have curated some of the most important events to date in the fandom DIGIFEST (a music festival) and Dragons Dojo (a dance battle event). MAJIC Records goal is to uplift and give opportunities to other talented creators in the fandom to get seen and heard through the events they curate who haven’t had a chance to showcase their abilities.
 
 <center>
 <img alt=" " width="200" height="150" src="/uploads/MAJIC1.jpg"> <img alt=" " width="200" height="150" src="/uploads/MAJIC2.jpg"> <img alt="" width="200" height="150" src="/uploads/MAJIC3.jpg">
 
 ### **Follow them on Twitter!**   
+
 **[@MAJICREC](https://x.com/MAJICREC)**  
 
 ### **Members:**  
@@ -59,6 +63,7 @@ subtitle: Lilia Roo and MAJIC Records!
 **Cephi Starz** - [@Cephistarz](https://x.com/Cephistarz)  
 
 **Dr. Dread** - [@DrDread34](https://x.com/DrDread34)  
+
 </center>
 
 ----
