@@ -5,8 +5,8 @@ title: Our Guest and Artists of Honor
 subtitle: Lilia Roo and MAJIC Records!
 ---
 
-# Lilia Roo
-***Guest of Honor***
+# Lilia Roo  
+***Guest of Honor***  
 
 ### Lilia Roo is a software engineer from Milwaukee. First contributing back to the furry community in 2018 through short story writing, Lilia creates web services the local furries depend on, conducts research on old computer systems, and is a maintainer for open-source software.  
 
