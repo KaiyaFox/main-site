@@ -17,9 +17,12 @@ subtitle: Lilia Roo and MAJIC Records!
  
 <center>
 <img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
-</center>
 
 ##### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
+
+### **Find Lilia online at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)**
+
+</center>
 
 ----
 ----
