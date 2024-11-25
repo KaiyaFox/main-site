@@ -15,14 +15,10 @@ subtitle: Lilia Roo and MAJIC Records!
 
 ### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe. 
 <center>
-<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo on a bus with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
+<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
 </center>
 
-##### Photo credits are:
-Walking photo: Blue Hasia (https://www.furtrack.com/user/BlueHasia/fursuiting)
-Computer photo: Ace (acetone.snaps on Instagram, @BenignEspurr on Telegram)
-Streetcar photo: Dire Walf (https://www.flickr.com/people/ajriccobono/)
-Flowery icon: Recurrent (https://www.recurrentart.com/contact--about.html)
+##### Photo credits are: [Flowery icon: Recurrent] (https://www.recurrentart.com/contact--about.html), Computer photo: Ace (acetone.snaps on Instagram, @BenignEspurr on Telegram), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)
 
 ----
 
