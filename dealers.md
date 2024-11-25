@@ -10,7 +10,7 @@ subtitle: Welcome, welcome, one and all! With all of these dazzling wares we’r
 
 # After Hours
 
-Please note that once the Dealers Den is closed for the evening, nobody will be allowed inside. As a general rule, even staff are not allowed inside the room after hours; the only exception would be a Dealers Den lead and only then if they are accompanied by a member of our Security team. Please double and triple check to make sure that you have all of your personal belongings with you when you leave; items such as personal ID, money, phones, etc. that you might need should not be left in the Den overnight.
+Please note that once the Dealers Den and Night Market are closed for the evening, nobody will be allowed inside. As a general rule, even staff are not allowed inside the rooms after hours; the only exception would be a Dealers Den lead and only then if they are accompanied by a member of our Security team. Please double and triple check to make sure that you have all of your personal belongings with you when you leave; items such as personal ID, money, phones, etc. that you might need should not be left in the Den or Night Market overnight.
 
 # Code of Conduct
 
