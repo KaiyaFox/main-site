@@ -20,7 +20,7 @@ subtitle: Lilia Roo and MAJIC Records!
 
 ##### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
 
-### **Find Lilia online at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)**
+### **Find out more at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)!**
 
 </center>
 
@@ -34,7 +34,8 @@ subtitle: Lilia Roo and MAJIC Records!
 <center>
 <img alt=" " width="200" height="150" src="/uploads/MAJIC1.jpg"> <img alt=" " width="200" height="150" src="/uploads/MAJIC2.jpg"> <img alt="" width="200" height="150" src="/uploads/MAJIC3.jpg">
 
-### **Follow them at [@MAJICREC](https://x.com/MAJICREC)**
+### **Follow them on Twitter!** 
+**[@MAJICREC](https://x.com/MAJICREC)**
 
 ### **Members:**
 
