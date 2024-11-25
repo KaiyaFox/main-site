@@ -12,14 +12,14 @@ subtitle: Lilia Roo and MAJIC Records!
 
 ### Lilia has helped connect furries and non-furries through public furwalks, and has successfully persuaded the city several times now to better connect itself through new, tangible additions to bicycle and transit infrastructure.  
 
-### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe.
+### Whether in the physical world or the digital world, Lilia has proven that improving the environment we live in is not just possible, but far closer in reach for us than we may currently believe.  
  
 <center>
-<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">
+<img alt="Lilia Roo at a computer." width="200" height="150" src="/uploads/liliaroo2.jpg"> <img alt="Lilia Roo in a streetcar with a bunch of other fursuiters during a Furmeet." width="200" height="150" src="/uploads/liliaroo3.jpg"> <img alt="Lilia Roo walking in the Anthrocon Parade." width="200" height="150" src="/uploads/liliaroo1.jpg">  
 
-#### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***
+#### ***Photo credits are: Computer photo: [Ace](https://www.instagram.com/acetone.snaps/), Streetcar photo: [Dire Walf](https://www.flickr.com/people/ajriccobono/), Walking photo: [Blue Hasia](https://www.furtrack.com/user/BlueHasia/fursuiting)***  
 
-### **Find out more at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)!**
+### **Find out more at [Fursona Directory/@LiliaRoo](https://fursona.directory/@LiliaRoo)!**  
 
 </center>
 
