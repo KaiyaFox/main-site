@@ -20,7 +20,7 @@ We’ve put together an [application](https://forms.gle/DEjeoVimMnDWxx6q8){: tar
 
 There isn’t a hard deadline for filling this out, but the sooner, the more likely we’ll be able to get it on the schedule and plan for it to be a smoother experience.
 
-### [Sign Up](https://forms.gle/7YBBDcSkE1q5iSVu5){: target="_blank" rel="noopener"}
+### [Sign Up](https://forms.gle/DEjeoVimMnDWxx6q8){: target="_blank" rel="noopener"}
 
 # Tournaments
 
