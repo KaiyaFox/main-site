@@ -7,9 +7,7 @@ subtitle: Please read the information on this page, then click the link at the b
 
 ## COVID-19 Information
 
-**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared 2025, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population in the fall of 2023. Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. FurSquared may amend this policy as necessary for the safety of everyone at the convention.**
-
-Further details about this policy can be reviewed on our dedicated [COVID-19 policy page](/covid-policy).
+**Proof of vaccination for COVID-19 will no longer be required to attend FurSquared, however we strongly urge everyone to keep their vaccinations up-to-date, especially when reformulated boosters become available to the general population. Additionally, while FurSquared encourages masks for all attendees in public and convention spaces, masks will not be required. As we have learned in the past, a new variant of COVID-19 can appear and change everything, from transmission to severity. Because of this, FurSquared reserves the right to amend these requirements should it become necessary in order to ensure the safety and well-being of our staff and attendees. Any modifications to this policy will be published on this page and announced through our social media channels and website.**
 
 ## Registration Levels
 
