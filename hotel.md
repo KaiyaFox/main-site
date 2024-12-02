@@ -2,7 +2,7 @@
 layout: page
 full-width: true
 title: Hotel and Milwaukee Area Information
-subtitle: Welcome Back to Our Historic Venue! Keep Reading for Information on the Hilton Milwaukee City Center, Hotels, Parking, Travel Options, and Food!
+subtitle: Welcome Back to Our Historic Venue! Keep Reading for Information on the Hilton Milwaukee City Center, the Baird Center, Parking, Travel Options, and Food!
 ---
 <div align="center">
   <img alt="The lobby of the Hilton Milwaukee City Center"  src="{{ 'assets/img/2024/hilton_inside.jpg' | relative_url }}" />
@@ -15,6 +15,13 @@ The Hilton Milwaukee City Center, originally opened in 1928 as the Milwaukee Sch
 509 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 Phone: (414) 271-7250<br/>
 <a href="https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/index.html">Venue Website</a>
+
+# Baird Center
+
+We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee City Center via a connected skywalk. Recent renovations opened in 2024 have doubled the center's available space, continuing the Baird Center's reputation as a modern and versatile space for events in downtown Milwaukee.
+
+400 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
+<a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
   <div align="center">
@@ -33,9 +40,7 @@ Phone: (414) 271-7250<br/>
 
 -->
 
-# Hotel Recommendations
-
-## Main Hotel
+# Hotel Information
 
 The main hotel for our convention, the Hilton Milwaukee City Center, has rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link to Hilton's website.
 
@@ -44,16 +49,6 @@ The main hotel for our convention, the Hilton Milwaukee City Center, has rooms s
 You can access the FurSquared 2025 main hotel room block by [following this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink). This link is the only way for attendees to book guaranteed rooms in the main hotel at special pricing for FurSquared 2025.
 
 If you have a need for an accessible room, please place your reservation for a standard room online. After you have made your reservation, please contact the hotel directly at (414) 271-7250 to be moved to an accessible room. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
-
-## Alternative Hotels
-
-If you cannot reserve your preferred room in the main hotel, there are nearby hotels that will have rooms available with pricing comparable to our con block. We suggest the following hotels, which are ordered by distance from the Hilton Milwaukee City Center:
-
-* **[DoubleTree by Hilton Milwaukee Downtown](https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/)** - 611 W Wisconsin Ave, Milwaukee, WI 53203 (Adjacent to the Hilton Milwaukee City Center)
-* **[Fairfield Inn & Suites by Marriott Milwaukee Downtown](https://www.marriott.com/hotels/travel/mkefd-fairfield-inn-and-suites-milwaukee-downtown/)** - 710 N Dr. Martin Luther King Drive, Milwaukee, WI 53203
-* **[Courtyard by Marriott Milwaukee Downtown](https://www.marriott.com/hotels/travel/mkecy-courtyard-milwaukee-downtown/)** - 300 W Michigan St, Milwaukee, WI 53203
-* **[SpringHill Suites by Marriott Milwaukee Downtown](https://www.marriott.com/hotels/travel/mkesd-springhill-suites-milwaukee-downtown/)** - 744 Vel R. Phillips Ave, Milwaukee, WI 53203
-* **[Hyatt Regency Milwaukee](https://www.hyatt.com/en-US/hotel/wisconsin/hyatt-regency-milwaukee/mkerm)** - 333 W Kilbourn Ave, Milwaukee, WI 53203
 
 <hr>
 
@@ -68,10 +63,10 @@ For the Hilton Milwaukee City Center garage, parking is $12 per Vehicle each day
 
 You MUST validate your parking ticket! There are two ways:
 
-1. Take the parking ticket to the front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
-2. If you are not staying overnight, you can acquire a voucher from Registration on the 4th floor and take that to the hotel front desk, along with your parking ticket.
+1. Take the parking ticket to the hotel front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
+2. If you are not staying overnight, you can acquire a voucher from Registration at the Baird Center and take that to the hotel front desk, along with your parking ticket.
 
-There are also other lots available in the area, including within a 1-3 block area surrounding the hotel. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
+There are also other lots available in the area, including within a 1-3 block area surrounding the hotel and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
 
 # Getting to FurSquared
 
@@ -84,7 +79,7 @@ The Milwaukee Intermodal Station is the main train and bus station in Milwaukee.
 Station information, including a listing of all bus services and Amtrak lines, can be found on the [station's website](https://wisconsindot.gov/pages/travel/rail/mis.aspx).
 
 * **Walk**: The Hilton is about a third of a mile from the station. It's a 7-10 minute walk depending on your pace and traffic.
-* **Bublr Bikes**: There is a [Bublr Bikes](https://bublrbikes.org) dock at the station that houses up to 8 bikes. You can rent a bike and ride it to the Hilton. The closest dock to the Hilton is at 5th and Wisconsin, about a block from the Hilton, outside the Baird Center.
+* **Bublr Bikes**: There is a [Bublr Bikes](https://bublrbikes.org) dock at the station that houses up to 8 bikes. You can rent a bike and ride it to the Hilton. The closest dock to the Hilton is at 5th and Wisconsin outside the Baird Center.
 
 ## From Milwaukee Mitchell International Airport (MKE)
 
@@ -92,20 +87,20 @@ Milwaukee Mitchell International Airport is the main airport serving the Milwauk
 
 * **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus route 80 to Downtown Milwaukee, with a stop at 6th and Wisconsin right outside the Hilton! [Click here for more information](https://www.ridemcts.com/routes-schedules/80).
 * **Rideshare**: Uber and Lyft both operate at the airport. Request a ride and you'll be picked up at the rideshare zone inside the parking garage across from baggage claim.
-* **GO Riteway**: GO Riteway operates a shuttle service from the airport to Downtown Milwaukee. [Click here for more information](https://goriteway.com/ride-services/airport-transportation/).
+* **Airport Shuttle**: GO Riteway operates a shuttle service from the airport to Downtown Milwaukee. [Click here for more information](https://goriteway.com/ride-services/airport-transportation/).
 
 ## From The Greater Milwaukee Area
 
 If you live in the Milwaukee area, are staying with a friend, or otherwise looking for other local transportation options, here are a few options to consider.
 
 * **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus routes throughout the Milwaukee area. Wisconsin Avenue, where our Hilton is located, is a huge corridor for bus travel in the area. [Click here for more information](https://www.ridemcts.com/routes-schedules).
-  * **MCTS Connect 1 Free Bus Service**: MCTS operates a free bus service called Connect 1 that runs from the Watertown Plank Park and Ride direct to the Hilton at the stop on 5th and Wisconsin. From Watertown Plank to the Hilton is approximately a 30 minute ride. [Click here for more information](https://www.ridemcts.com/routes-schedules/connect1).
-* **Wisconsin Coach Lines**: Wisconsin Coach Lines operates bus service from a number of regional park and ride lots to Downtown Milwaukee. Buses stop near the Hilton! [Click here for more information](https://www.coachusa.com/wisconsin-coach).
+  * **MCTS Connect 1 Rapid Transit Service**: MCTS operates a rapid transit bus service called Connect 1 that runs from the Watertown Plank Park and Ride in Wauwatosa direct to the Hilton at the stop on 5th and Wisconsin. From Watertown Plank to the Hilton is approximately a 30 minute ride. [Click here for more information](https://www.ridemcts.com/routes-schedules/connect1).
+* **Wisconsin Coach Lines**: Wisconsin Coach Lines operates bus and van service from a number of regional park and ride lots to Downtown Milwaukee. Buses stop near the Hilton! [Click here for more information](https://www.coachusa.com/wisconsin-coach).
 
 ## From Chicago
 
-* **Amtrak**: Amtrak operates the Hiawatha train between Chicago and Milwaukee. Trains stop at the Milwaukee Intermodal Station, about a third of a mile from the Hilton. [Click here for more information](https://www.amtrak.com/routes/hiawatha-train.html).
-* **Metra**: Metra operates the Union Pacific North line between the Chicago area and Kenosha, WI. You can then connect to the Amtrak or carpool to Milwaukee. [Click here for more information](https://metrarail.com/maps-schedules/train-lines/UP-N).
+* **Amtrak**: Amtrak operates the Hiawatha, Borealis, and Empire Builder trains between Chicago and Milwaukee. Trains stop at the Milwaukee Intermodal Station, about a third of a mile from the Hilton. [Click here for more information](https://www.amtrak.com/routes/hiawatha-train.html).
+* **Metra**: Metra operates the Union Pacific North line between the Chicago area and Kenosha, WI. You can then connect to Amtrak or carpool to Milwaukee. [Click here for more information](https://metrarail.com/maps-schedules/train-lines/UP-N).
 * **Wisconsin Coach Lines**: Wisconsin Coach Lines operates a bus service from O'Hare Airport to the Intermodal Station, about a third of a mile from the Hilton. [Click here for more information](https://www.coachusa.com/wisconsin-coach).
 
 ## Accessible Transportation
@@ -118,8 +113,8 @@ If you live in the Milwaukee area, are staying with a friend, or otherwise looki
 Milwaukee is well-known for its variety of dining options, especially in the area surrounding our venue. Here are just a few of the many options available:
 
 * **[Hilton Milwaukee City Center Dining](https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/dining/index.html)** - The Hilton Milwaukee City Center has a variety of dining options, including the Miller Time Pub & Grill, Monarch Lounge, and the Café. The hotel also has a Starbucks location.
-* **[3rd Street Market Hall](https://www.3rdstmarkethall.com)** - The 3rd Street Market Hall is a very short walk from the Hilton and features a variety of local food booths and other vendors, including TopGolf suites and a full bar, in an open environment. It is located in the Avenue, a historic mall that was recently restored and renovated.
-* **[SafeHouse](https://www.safe-house.com/milwaukee)** - The SafeHouse is a spy-themed restaurant and bar located near downtown Milwaukee, known for its unique atmosphere and secret entrance. It is a short walk from the Hilton and is also a favorite amongst F2's staff!
+* **[3rd Street Market Hall](https://www.3rdstmarkethall.com)** - The 3rd Street Market Hall is a very short walk from the Hilton and features a variety of local food options and other vendors, including TopGolf suites and a full bar, in an open environment. It is located in the Avenue, a historic mall that was restored and renovated. The hall is a favorite amongst FurSquared attendees, staff, and local furries alike! Suiting is allowed but suits must be "safe for work" and the venue is 21+ after 8:00 PM each day; one should be prepared to show legal ID. [Click here for more information on their policies](https://3rdstmarkethall.com/market-hall-policies).
+* **[SafeHouse](https://www.safe-house.com/milwaukee)** - The SafeHouse is a spy-themed restaurant and bar located near downtown Milwaukee, known for its unique atmosphere and secret entrance. It is a short walk from the Hilton.
 * **[Milwaukee Public Market](https://milwaukeepublicmarket.org)** - The Milwaukee Public Market is a further walk, but is a popular destination for food and shopping. It features a variety of local vendors and restaurants, including a wine bar and a seafood market.
 * **[Water Street](https://www.milwaukeedowntown.com/experience/dining/)** - Water Street is a historic street in Milwaukee that is home to a variety of bars and restaurants. It is also a popular nightlife destination.
 
