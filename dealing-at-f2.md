@@ -8,13 +8,10 @@ toc: true
 
 ![A banner image advertising that Dealer's Den applications are now open.](https://static.fursquared.com/img/dealers-2025.webp)
 
-**How to Apply**
+**Applications Are Closed**
 -----------------
-To apply for a vendor spot at FurSquared 2025, use the link below:
 
-<https://vendors.fursquared.com/apply>
-
-The deadline to apply is **November 30th**, so act fast!
+The deadline to apply was **November 30th**, if you applied for a spot you will receive further information over e-mail when decisions have been made!
 
 **After Hours**
 ---------------
