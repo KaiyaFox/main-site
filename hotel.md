@@ -2,7 +2,7 @@
 layout: page
 full-width: true
 title: Hotel and Milwaukee Area Information
-subtitle: Welcome Back to Our Historic Venue! Keep Reading for Information on the Hilton Milwaukee City Center, the Baird Center, Parking, Travel Options, and Food!
+subtitle: Welcome back to our historic venue! Keep Reading for Information on our hotels, the Baird Center, parking, travel, and dining!
 ---
 <div align="center">
   <img alt="The lobby of the Hilton Milwaukee City Center"  src="{{ 'assets/img/2024/hilton_inside.jpg' | relative_url }}" />
@@ -16,6 +16,14 @@ The Hilton Milwaukee City Center, originally opened in 1928 as the Milwaukee Sch
 Phone: (414) 271-7250<br/>
 <a href="https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/index.html">Venue Website</a>
 
+# DoubleTree by Hilton Hotel Milwaukee Downtown
+
+The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as our overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee City Center and the Baird Center.
+
+611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
+Phone: (414) 273-2950<br/>
+<a href="https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/">Venue Website</a>
+
 # Baird Center
 
 We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee City Center via a connected skywalk. Recent renovations opened in 2024 have doubled the center's available space, continuing the Baird Center's reputation as a modern and versatile space for events in downtown Milwaukee.
@@ -25,7 +33,7 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 
 <hr>
   <div align="center">
-    <h3>Attention: The Hilton Milwaukee City Center is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves the venue's history and our ability to use it for future years. Thank you.</h3>
+    <h3>Attention: The Hilton Milwaukee City Center is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
   </div>
 <hr>
 
@@ -42,13 +50,13 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 
 # Hotel Information
 
-The main hotel for our convention, the Hilton Milwaukee City Center, has rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link to Hilton's website.
+Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link.
 
-<h3>Room block status: <span style="color: #91F89E">OPEN!</span></h3>
+<h3>Room block status: <span style="color: #00FCFF">OVERFLOW HOTEL OPEN!</span></h3>
 
-You can access the FurSquared 2025 main hotel room block by [following this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=MKEMHHF&arrivalDate=2025-02-20&departureDate=2025-02-24&groupCode=95N&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink). This link is the only way for attendees to book guaranteed rooms in the main hotel at special pricing for FurSquared 2025.
+You can access available rooms from our room blocks by [following this link]([https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)). This link is the only way for attendees to book guaranteed rooms at special pricing for FurSquared 2025.
 
-If you have a need for an accessible room, please place your reservation for a standard room online. After you have made your reservation, please contact the hotel directly at (414) 271-7250 to be moved to an accessible room. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
+If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
 <hr>
 
@@ -66,7 +74,7 @@ You MUST validate your parking ticket! There are two ways:
 1. Take the parking ticket to the hotel front desk, and ask to have it attached to your room reservation. You may have multiple vehicles attached to a single room reservation.
 2. If you are not staying overnight, you can acquire a voucher from Registration at the Baird Center and take that to the hotel front desk, along with your parking ticket.
 
-There are also other lots available in the area, including within a 1-3 block area surrounding the hotel and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
+There is a strong chance the Hilton garage will reach capacity, so please also consider other lots available in the area. There are many within a blocks surrounding the hotels and convention center. We recommend checking out [SpotHero](https://spothero.com) and [HONK](https://parking.honkmobile.com/parking) for parking options and booking in advance. [A promotion code is available](https://spothero.com/about/promo-code) for first-time users of SpotHero.
 
 # Getting to FurSquared
 
@@ -85,7 +93,7 @@ Station information, including a listing of all bus services and Amtrak lines, c
 
 Milwaukee Mitchell International Airport is the main airport serving the Milwaukee area. It's located at 5300 S Howell Ave, Milwaukee, WI 53207. The airport is served by most major domestic airlines including Delta, American, Southwest, United, Spirit, JetBlue, and Frontier.
 
-* **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus route 80 to Downtown Milwaukee, with a stop at 6th and Wisconsin right outside the Hilton! [Click here for more information](https://www.ridemcts.com/routes-schedules/80).
+* **Milwaukee County Transit System**: The Milwaukee County Transit System (MCTS) operates bus route 80 to Downtown Milwaukee, with a stop at 6th and Wisconsin right outside the hotels! [Click here for more information](https://www.ridemcts.com/routes-schedules/80).
 * **Rideshare**: Uber and Lyft both operate at the airport. Request a ride and you'll be picked up at the rideshare zone inside the parking garage across from baggage claim.
 * **Airport Shuttle**: GO Riteway operates a shuttle service from the airport to Downtown Milwaukee. [Click here for more information](https://goriteway.com/ride-services/airport-transportation/).
 
