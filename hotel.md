@@ -54,7 +54,7 @@ Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This 
 
 <h3>Room block status: <span style="color: #00FCFF">OVERFLOW HOTEL OPEN!</span></h3>
 
-You can access available rooms from our room blocks by [following this link]([https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/)). This link is the only way for attendees to book guaranteed rooms at special pricing for FurSquared 2025.
+You can access available rooms from our room blocks by [following this link](https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/). This link is the only way for attendees to book guaranteed rooms at special pricing for FurSquared 2025.
 
 If you have a need for an accessible room, please place your reservation for a standard room. After you have made your reservation, please contact the hotel directly to be moved to an accessible room, contact information is available for each hotel above. If you are having difficulties with this process, please contact us at [info@fursquared.com](mailto:info@fursquared.com).
 
