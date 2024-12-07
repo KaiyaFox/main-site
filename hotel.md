@@ -128,6 +128,12 @@ Milwaukee is well-known for its variety of dining options, especially in the are
 * **[Milwaukee Public Market](https://milwaukeepublicmarket.org)** - The Milwaukee Public Market is a further walk, but is a popular destination for food and shopping. It features a variety of local vendors and restaurants, including a wine bar and a seafood market.
 * **[Water Street](https://www.milwaukeedowntown.com/experience/dining/)** - Water Street is a historic street in Milwaukee that is home to a variety of bars and restaurants. It is also a popular nightlife destination.
 
+<hr>
+  <div align="center">
+    <h3>DoorDash and other services deliver to our hotels. If you decide to order food, groceries, or other items, note that the delivery services will drop off at the front desk (or concierge at Hilton Milwaukee) and will not come to your room, even if you request room delivery. Please pick up orders promptly from the lobby or make arrangements to meet your driver instead.</h3>
+  </div>
+<hr>
+
 # Want to Learn More About Milwaukee?
 
 Milwaukee's tourism bureau, VISIT Milwaukee, has a wealth of information about the city, including dining, attractions, local events, and more. [Click here to visit their website](https://www.visitmilwaukee.org).
