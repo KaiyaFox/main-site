@@ -5,12 +5,12 @@ title: Hotel and Milwaukee Area Information
 subtitle: Welcome back to our historic venue! Keep Reading for Information on our hotels, the Baird Center, parking, travel, and dining!
 ---
 <div align="center">
-  <img alt="The lobby of the Hilton Milwaukee City Center"  src="{{ 'assets/img/2024/hilton_inside.jpg' | relative_url }}" />
+  <img alt="The lobby of the Hilton Milwaukee"  src="{{ 'assets/img/2024/hilton_inside.jpg' | relative_url }}" />
 </div>
 
-# Hilton Milwaukee City Center
+# Hilton Milwaukee
 
-The Hilton Milwaukee City Center, originally opened in 1928 as the Milwaukee Schroeder Hotel, is a historic hotel that is hosting our convention this year! Developed by Walter Schroeder, it was one of the largest and most luxurious hotels in the Midwest. It faced economic challenges during the Great Depression and World War II but remained a significant landmark. Acquired by Hilton in 1972 and renamed, it has since undergone renovations to combine its lavish historic elegance with modern amenities, continuing to be a prominent downtown Milwaukee attraction. The hotel is located in the heart of downtown Milwaukee, just a few blocks from the Milwaukee River and Lake Michigan, and is surrounded by a variety of dining, shopping, and entertainment options.
+The Hilton Milwaukee, originally opened in 1928 as the Milwaukee Schroeder Hotel, is a historic hotel that is hosting our convention this year! Developed by Walter Schroeder, it was one of the largest and most luxurious hotels in the Midwest. It faced economic challenges during the Great Depression and World War II but remained a significant landmark. Acquired by Hilton in 1972 and renamed, it has since undergone renovations to combine its lavish historic elegance with modern amenities, continuing to be a prominent downtown Milwaukee attraction. The hotel is located in the heart of downtown Milwaukee, just a few blocks from the Milwaukee River and Lake Michigan, and is surrounded by a variety of dining, shopping, and entertainment options.
 
 509 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 Phone: (414) 271-7250<br/>
@@ -18,22 +18,23 @@ Phone: (414) 271-7250<br/>
 
 # DoubleTree by Hilton Hotel Milwaukee Downtown
 
-The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as our overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee City Center and the Baird Center.
+The DoubleTree by Hilton Hotel Milwaukee Downtown is serving as our overflow hotel for this year. This is an award-winning hotel offering modern guest rooms, on-site dining and a convenient location adjacent to the Hilton Milwaukee and the Baird Center.
 
 611 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 Phone: (414) 273-2950<br/>
 <a href="https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/">Venue Website</a>
+<a href="https://www.hilton.com/en/attend-my-event/mkeccdt-fff-db031eee-7f71-48bd-b361-3456f19efa31/">Book a Room</a> (See Hotel Information Below for Accessibility And Other Details)
 
 # Baird Center
 
-We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee City Center via a connected skywalk. Recent renovations opened in 2024 have doubled the center's available space, continuing the Baird Center's reputation as a modern and versatile space for events in downtown Milwaukee.
+We are expanding our space to include a portion of the Baird Center, a exhibition hall and convention center! Our space at the Baird Center is easily accessible from the Hilton Milwaukee via a connected skywalk. Recent renovations opened in 2024 have doubled the center's available space, continuing the Baird Center's reputation as a modern and versatile space for events in downtown Milwaukee.
 
 400 W Wisconsin Ave<br/>Milwaukee, WI 53203<br />
 <a href="https://bairdcenter.com/">Venue Website</a>
 
 <hr>
   <div align="center">
-    <h3>Attention: The Hilton Milwaukee City Center is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
+    <h3>Attention: The Hilton Milwaukee is a historic landmark governed by strict regulations. Damage or defacement of the venue is a Class I felony and will be prosecuted. Similar regulations apply to the DoubleTree and Baird Center. Please place stickers only on designated sticker statues, as they will be auctioned for charity. Do not affix posters or items to any surfaces without staff approval. Your cooperation preserves our venues' history and our ability to use them for future years. Thank you.</h3>
   </div>
 <hr>
 
@@ -48,7 +49,7 @@ We are expanding our space to include a portion of the Baird Center, a exhibitio
 
 -->
 
-# Hotel Information
+# Room Block Information and Reservations
 
 Our hotels have rooms specifically reserved for FurSquared 2025 attendees. This is called a "room block", and can only be accessed through a special link.
 
@@ -67,7 +68,7 @@ If you have a need for an accessible room, please place your reservation for a s
 <hr>
 
 # Parking
-For the Hilton Milwaukee City Center garage, parking is $12 per Vehicle each day, including in-and-out privileges.
+For the Hilton Milwaukee garage, parking is $12 per Vehicle each day, including in-and-out privileges.
 
 You MUST validate your parking ticket! There are two ways:
 
@@ -120,7 +121,8 @@ If you live in the Milwaukee area, are staying with a friend, or otherwise looki
 
 Milwaukee is well-known for its variety of dining options, especially in the area surrounding our venue. Here are just a few of the many options available:
 
-* **[Hilton Milwaukee City Center Dining](https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/dining/index.html)** - The Hilton Milwaukee City Center has a variety of dining options, including the Miller Time Pub & Grill, Monarch Lounge, and the Café. The hotel also has a Starbucks location.
+* **[Hilton Milwaukee Dining](https://www3.hilton.com/en/hotels/wisconsin/hilton-milwaukee-city-center-MKEMHHF/dining/index.html)** - The Hilton Milwaukee has a variety of dining options, including the Miller Time Pub & Grill, Monarch Lounge, and the Café. The hotel also has a Starbucks location.
+* **[Avenue Bar and Grill (Inside DoubleTree)](https://www.avenuemilwaukee.com/)** - Our overflow hotel, the DoubleTree, has a restaurant and bar on-site. The Avenue Bar and Grill offers breakfast, lunch, dinner and a full bar.
 * **[3rd Street Market Hall](https://www.3rdstmarkethall.com)** - The 3rd Street Market Hall is a very short walk from the Hilton and features a variety of local food options and other vendors, including TopGolf suites and a full bar, in an open environment. It is located in the Avenue, a historic mall that was restored and renovated. The hall is a favorite amongst FurSquared attendees, staff, and local furries alike! Suiting is allowed but suits must be "safe for work" and the venue is 21+ after 8:00 PM each day; one should be prepared to show legal ID. [Click here for more information on their policies](https://3rdstmarkethall.com/market-hall-policies).
 * **[SafeHouse](https://www.safe-house.com/milwaukee)** - The SafeHouse is a spy-themed restaurant and bar located near downtown Milwaukee, known for its unique atmosphere and secret entrance. It is a short walk from the Hilton.
 * **[Milwaukee Public Market](https://milwaukeepublicmarket.org)** - The Milwaukee Public Market is a further walk, but is a popular destination for food and shopping. It features a variety of local vendors and restaurants, including a wine bar and a seafood market.
