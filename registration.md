@@ -52,7 +52,7 @@ Super sponsors will not be eligible for refunds after a date to be determined. I
 Also, there are limits to how many people can register for certain registration levels:
 
 - Poster: There are only **50** spots for the Poster level. First come, first serve.
-- Supser Sponsor: There are only 250 spots for the Super Sponsor level.
+- Super Sponsor: There are only 250 spots for the Super Sponsor level.
 
 ## Parents wishing to attend with a minor: fear not, we got you!
 
@@ -76,7 +76,7 @@ For Poster tier badges, refunds are only allowed on or before November 1, 2024 a
 
 After the convention has ended (after closing ceremonies have concluded), no badge refunds can be issued.
 
-If an extraneous situation has occured and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after Februrary 10th @ 9 AM CST are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
+If an extraneous situation has occurred and an attendee still wishes to be issued a refund outside of these terms, please contact the registration team via email ([registration@fursquared.com](mailto:registration@fursquared.com)). **All refund requests made after the convention and full refund requests made on or after February 10th @ 9 AM CST are considered on a case by case basis, and refunds are not guaranteed to be issued or issued for 100% of the purchase price if the request falls outside of these terms.**
 
 ## Questions or Concerns?
 
@@ -118,7 +118,7 @@ Email us at: [registration@fursquared.com](mailto:registration@fursquared.com)<b
 
 * Unfortunately, lost swag and/or meal tickets cannot be replaced. It is the responsibility of the attendee to ensure the security of those items.
 
-* If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistence is needed for picking up these items, please contact registration staff.
+* If the attendee has never received pieces of swag and/or meal tickets that they are entitled to, it is the attendee's responsibility to pick up those items before the con ends. FurSquared is not responsible for delivering these items to the attendee. If assistance is needed for picking up these items, please contact registration staff.
 
 # I've Read All This, Now Where Do I Register?
 
